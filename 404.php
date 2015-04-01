@@ -4,7 +4,6 @@
  *
  * @package i2
  */
-
 get_header(); ?>
 
 	<div id="primary" class="content-area">
@@ -52,5 +51,4 @@ get_header(); ?>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
-
 <?php get_footer(); ?>
